@@ -1,0 +1,18 @@
+﻿
+@using lab2.model.city;
+@model List<city>
+
+<html>
+<head>
+</head>
+<body>
+
+    <h1>cities are:</h1>
+    @foreach (var item in Model)
+    {
+        <h1>@item.Name</h1>
+        <h2>@item.ID</h2>
+        <hr />
+    }
+</body>
+</html>
