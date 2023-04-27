@@ -1,0 +1,24 @@
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\bin\Debug\net7.0\lab1 mvc.exe
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\bin\Debug\net7.0\lab1 mvc.deps.json
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\bin\Debug\net7.0\lab1 mvc.runtimeconfig.json
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\bin\Debug\net7.0\lab1 mvc.dll
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\bin\Debug\net7.0\lab1 mvc.pdb
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\lab1 mvc.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\lab1 mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\lab1 mvc.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\lab1 mvc.AssemblyInfo.cs
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\lab1 mvc.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\lab1 mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\staticwebassets\msbuild.lab1 mvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\staticwebassets\msbuild.build.lab1 mvc.props
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lab1 mvc.props
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lab1 mvc.props
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\scopedcss\bundle\lab1 mvc.styles.css
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\lab1 mvc.dll
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\refint\lab1 mvc.dll
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\lab1 mvc.pdb
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\lab1 mvc.genruntimeconfig.cache
+C:\Users\USER\Desktop\lab1 mvc\lab1 mvc\lab1 mvc\obj\Debug\net7.0\ref\lab1 mvc.dll
